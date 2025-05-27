@@ -1,0 +1,21 @@
+- floating point numbers, octal, hex support
+- line and column number for error reporting
+- extract makeTwoCharToken into separate function:
+  implement:
+    +=
+    -=
+    *=
+    /=
+    variable++
+    variable--
+
+comments 
+
+first class functions 
+classes 
+inheritance
+typedef / define support
+
+strongly typed?
+variable type defined after variable name 
+
